@@ -1,0 +1,24 @@
+// https://angular.io/tutorial
+
+
+ng g c --help
+ng g c ~~/name --skipTests
+
+
+ng generate module app-routing --flat --module=app
+
+
+
+
+ng build --prod --baseHref=”https://archmapp2.github.io/minty"
+
+(default)
+
+/docs/ を利用 Netlify
+
+github.com/archmapp2/default
+
+https://app.netlify.com/sites/nostalgic-thompson-194a53/settings/general
+
+nostalgic-thompson-194a53
+nostalgic-thompson-194a53.netlify.app
